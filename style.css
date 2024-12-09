@@ -1874,6 +1874,10 @@ body {
 
 /* Стили для телефонов (ширина экрана до 480px) */
 @media (max-width: 480px) {
+    .header {
+        padding: 30px;
+        font-size: 25px;
+    }
     .newsletter-form {
         padding: 10px;
     }
